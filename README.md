@@ -1,4 +1,3 @@
-Cara Membuat Web dan Hosting Gratis di Github
+SELAMAT DATANG
 ===
-Ini adalah source code html dan css 
-yang dibuat untuk latihan
+MY NAME IS REHA
